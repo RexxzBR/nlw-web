@@ -35,3 +35,6 @@
     height: 24px;
     margin-bottom: 8px;
   }
+  .dropzone :hover {
+    cursor: grab;
+  }
